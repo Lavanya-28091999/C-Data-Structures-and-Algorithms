@@ -68,5 +68,6 @@ int main(){
   insert(&head,20);
   insert(&head,10);
   printList(head);
+printf("over");
   return 0;
 }
